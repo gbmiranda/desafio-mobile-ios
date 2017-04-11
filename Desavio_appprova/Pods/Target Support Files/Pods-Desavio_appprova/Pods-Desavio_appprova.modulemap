@@ -1,0 +1,6 @@
+framework module Pods_Desavio_appprova {
+  umbrella header "Pods-Desavio_appprova-umbrella.h"
+
+  export *
+  module * { export * }
+}
